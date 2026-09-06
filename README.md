@@ -3,6 +3,8 @@
 Real-time object detection system that identifies whether workers are wearing
 safety helmets, built with a custom fine-tuned YOLOv8 model.
 
+![Project Demo](demo.png)
+
 ## 🎯 Project Overview
 
 This project fine-tunes YOLOv8 on a custom construction-site dataset to detect
