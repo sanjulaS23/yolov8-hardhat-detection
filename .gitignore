@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Dataset (too large for GitHub, download separately)
+Hard-Hat-Detection-1/
+
+# Training outputs (large model weights, keep only best.pt if needed)
+runs/
+!runs/train/hardhat_v14/weights/best.pt
+!runs/train/hardhat_v14/weights/
+
+
+# Output videos
+output_videos/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
